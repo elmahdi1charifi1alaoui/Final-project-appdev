@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chygrin Kostiantyn homepage</title>
+
+</head>
+
+
+<body>
+
+<hi>Chygrin Kostiantyn homepage<hi>
+
+
+<p>This my homepage created 2.09.2022 for educational purposes</p>
+</html>
